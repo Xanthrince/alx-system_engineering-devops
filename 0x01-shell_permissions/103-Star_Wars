@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet https://www.youtube.com/watch?v=vZ734NWnAHA&ab_channel=StarWars 8080
+telnet towel.blinkenlights.nl
